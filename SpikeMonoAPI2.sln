@@ -3,26 +3,26 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.1.32414.318
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SpikeMonoAPI2", "SpikeMonoAPI2\SpikeMonoAPI2.csproj", "{C2D80D24-4E49-425B-8EF1-4146301427E1}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SpikeMonoAPI2", "SpikeMonoAPI2\SpikeMonoAPI2.csproj", "{C2D80D24-4E49-425B-8EF1-4146301427E1}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Contracts", "Contracts\Contracts.csproj", "{FB032855-C8F3-4FB9-B9E9-80E841139E19}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Contracts", "Contracts\Contracts.csproj", "{FB032855-C8F3-4FB9-B9E9-80E841139E19}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Models", "Models\Models.csproj", "{801DD5AE-8E0E-48E1-9770-5E79B275185A}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Models", "Models\Models.csproj", "{801DD5AE-8E0E-48E1-9770-5E79B275185A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Infra", "Infra\Infra.csproj", "{719A576A-BA4D-4FDB-AF64-A72D97B298F8}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Infra", "Infra\Infra.csproj", "{719A576A-BA4D-4FDB-AF64-A72D97B298F8}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Business", "Business\Business.csproj", "{0783B9A6-2081-4101-958D-7132C421BBC3}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Business", "Business\Business.csproj", "{0783B9A6-2081-4101-958D-7132C421BBC3}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{8E33300C-E2E0-40EC-882F-D486D892D1D1}"
 	ProjectSection(SolutionItems) = preProject
-		TextFile1.txt = TextFile1.txt
+		README.md = README.md
 	EndProjectSection
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Business.Tests", "Business.Tests\Business.Tests.csproj", "{3BA3A687-4B42-4900-B3BF-C1A3F3668306}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Business.Tests", "Business.Tests\Business.Tests.csproj", "{3BA3A687-4B42-4900-B3BF-C1A3F3668306}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SpikeMonoAPI2.Tests", "SpikeMonoAPI2.Tests\SpikeMonoAPI2.Tests.csproj", "{6DF8E890-233F-4CB3-8F09-F1F4113B2848}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SpikeMonoAPI2.Tests", "SpikeMonoAPI2.Tests\SpikeMonoAPI2.Tests.csproj", "{6DF8E890-233F-4CB3-8F09-F1F4113B2848}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Infra.Tests", "Infra.Tests\Infra.Tests.csproj", "{AAFC70FE-73DB-47C8-AA02-AB5863F44EEE}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Infra.Tests", "Infra.Tests\Infra.Tests.csproj", "{AAFC70FE-73DB-47C8-AA02-AB5863F44EEE}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
