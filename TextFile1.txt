@@ -1,0 +1,7 @@
+Separate by Layers - Layer in projects
+
+Models could be a folder in contracts as well
+Our view(VueJS) project would inside the folder (but not the vs solution)
+
+Each layer(Business, contract...) will be a project
+Domains will be contained across all layers
